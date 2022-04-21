@@ -15,6 +15,12 @@ This is a template website of a Medical Center that I developed with HTML and CS
 #### Footer
 ![image](https://user-images.githubusercontent.com/53352207/164561113-c4f3a75a-dee3-4ea4-9626-986f97344218.png)
 
+## Responsiveness
+
+This website is complete responsive. It was from the beggining developed with the concept of Mobile First taking place.
+![image](https://user-images.githubusercontent.com/53352207/164561999-05f1b872-f237-4fbb-957c-7b3e2862ac46.png)
+
+
 With this project I learned the following topics: <br>
 <ul>
   <li>Flexbox and consequently responsiveness</li>
