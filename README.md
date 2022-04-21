@@ -4,6 +4,7 @@ This is a template website of a Medical Center that I developed with HTML and CS
 ## Parts of this website
 
 #### Header
+![image](https://user-images.githubusercontent.com/53352207/164560815-ae506380-3aa1-4607-8140-d83d0a4ba517.png)
 <img src="![image](https://user-images.githubusercontent.com/53352207/164560815-ae506380-3aa1-4607-8140-d83d0a4ba517.png)">
 
 #### Banner
